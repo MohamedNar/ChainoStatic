@@ -5,10 +5,6 @@
             "rewrite": "/index.html"
         }
     ],
-    "navigationFallback": {
-        "rewrite": "/index.html",
-        "exclude": ["/static/js/*", "/images/*", "/static/css/*", "*.json"]
-    },
     "mimeTypes": {
         ".json": "text/json",
         ".js": "text/javascript",
