@@ -7,7 +7,7 @@
     ],
     "navigationFallback": {
         "rewrite": "/index.html",
-        "exclude": ["/static/js/*", "/static/css/*", "*.json"]
+        "exclude": ["*.jpg", "*.json"]
     },
     "mimeTypes": {
         ".json": "text/json",
