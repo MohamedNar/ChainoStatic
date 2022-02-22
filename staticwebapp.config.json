@@ -11,6 +11,7 @@
     },
     "mimeTypes": {
         ".json": "text/json",
+        ".jpg": "image/jpeg",
         ".js": "text/javascript",
         ".css": "text/css"
     }
