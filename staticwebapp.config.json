@@ -1,18 +1,1 @@
-{
-    "routes": [
-        {
-            "route": "/*",
-            "rewrite": "/index.html"
-        }
-    ],
-    "navigationFallback": {
-        "rewrite": "/index.html",
-        "exclude": ["/images/*", "*.json"]
-    },
-    "mimeTypes": {
-        ".json": "text/json",
-        ".jpg": "image/jpeg",
-        ".js": "text/javascript",
-        ".css": "text/css"
-    }
-}
+
